@@ -1,0 +1,13 @@
+body{
+	font-family: Times New Roman, sans-serif;
+	margin:30px auto;
+	width:85%;
+	font-size:15pt;
+	text-align: justify;
+}
+h1{
+	text-align: center;
+}
+#kozep{
+	float: center;
+}
